@@ -1,44 +1,92 @@
-# vCard - Personal portfolio
+# 🌐 Personal Portfolio Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Hi 👋 I'm **Aparna**, a Computer Science Engineering (CSE) student and aspiring **Software Developer / ML & AI Enthusiast**. This repository contains the source code for my **personal portfolio website**, which showcases my skills, projects, resume, and contact information in a professional and recruiter-friendly manner.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+---
 
-## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-## Prerequisites
+## 📌 About the Portfolio
 
-Before you begin, ensure you have met the following requirements:
+This portfolio website is designed to:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* Present my **technical skills and interests**
+* Showcase **academic and real-world projects**
+* Provide access to my **resume and certifications**
+* Share my **blogs / learning journey**
+* Enable recruiters and collaborators to **contact me easily**
 
-## Installing vCard
+The website follows a **clean UI**, **responsive design**, and **modern web standards**.
 
-To install **vCard**, follow these steps:
+---
 
-Linux and macOS:
+## 🛠️ Tech Stack Used
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+### Frontend
 
-Windows:
+* **HTML5** – Semantic and accessible structure
+* **CSS3** – Responsive layouts, animations, and styling
+* **JavaScript (ES6+)** – Interactivity and dynamic behavior
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+### Tools & Platforms
 
-## Contact
+* **Git & GitHub** – Version control
+* **VS Code** – Development environment
+* **GitHub Pages** – Deployment
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+---
 
-## License
+## 📂 Website Sections
 
-MIT
+* **Home** – Introduction and role overview
+* **About Me** – Academic background and interests
+* **Skills** – Programming languages, tools, and technologies
+* **Projects** – Major projects with descriptions and links
+* **Resume** – Downloadable resume
+* **Blogs** – Technical articles and learning notes
+* **Contact** – Email, LinkedIn, GitHub, and social links
+
+---
+
+## ✨ Key Features
+
+* Fully **responsive** across all devices
+* Smooth **scroll animations**
+* Clean and **professional UI**
+* Easy navigation
+* Recruiter-focused layout
+
+---
+
+
+---
+
+## 📈 Future Enhancements
+
+* Dark / Light mode toggle
+* Backend contact form (Node.js / Firebase)
+* Blog CMS integration
+* Project filtering
+* Performance optimization
+
+---
+
+## 🤝 Contributing
+
+This is a personal project, but suggestions and improvements are always welcome!
+
+---
+
+
+
+
+## ⭐ Acknowledgements
+
+* Inspiration from modern developer portfolios
+* Open-source UI references
+
+---
+
+### ⭐ If you like this portfolio, don't forget to star the repository!
+
+Happy Coding 💻🚀
